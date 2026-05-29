@@ -17,17 +17,33 @@ SkyFlow Terminal Manager is a console-based airport terminal management system d
 
 ---
 
-# Project Structure
+## Project Structure
 
-The project follows a modular architecture:
-
-* Models
-* Repositories
-* Interfaces
-* Database Helper
-* Console Table Renderer
-* SQL Database Schema
-* Role-Based Authentication
+```text
+SkyFlowTerminalManager/
+│
+├── screenshots/
+│   ├── app-running.png
+│   ├── admin-login.png
+│   ├── manage-flights.png
+│   ├── view-flights.png
+│   ├── add-flight.png
+│   ├── flight-added-verification.png
+│   ├── update-flight-status.png
+│   ├── system-overview.png
+│   ├── gate-agent-login.png
+│   ├── flight-manifest.png
+│   ├── passenger-checkin.png
+│   ├── boarding-gate.png
+│   ├── schema-imported.png
+│   ├── tables-created.png
+│   ├── file-found.png
+│   ├── sql-aircraft.png
+│   ├── sql-passenger.png
+│   └── sql-flight.png
+│
+└── README.md
+```
 
 ---
 
@@ -326,30 +342,7 @@ The SkyFlow Terminal Manager system was successfully developed and tested. The s
 * Boarding operations
 * Data persistence and retrieval
 
-  ---
-
-SkyFlowTerminalManager/
-│
-├── screenshots/
-│   ├── app-running.png
-│   ├── admin-login.png
-│   ├── manage-flights.png
-│   ├── view-flights.png
-│   ├── add-flight.png
-│   ├── flight-added-verification.png
-│   ├── update-flight-status.png
-│   ├── system-overview.png
-│   ├── gate-agent-login.png
-│   ├── flight-manifest.png
-│   ├── passenger-checkin.png
-│   ├── boarding-gate.png
-│   ├── schema-imported.png
-│   ├── tables-created.png
-│   ├── file-found.png
-│   ├── sql-aircraft.png
-│   ├── sql-passenger.png
-│   └── sql-flight.png
-│
-└── README.md
 ---
+
+
 
