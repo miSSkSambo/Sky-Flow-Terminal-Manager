@@ -326,6 +326,8 @@ The SkyFlow Terminal Manager system was successfully developed and tested. The s
 * Boarding operations
 * Data persistence and retrieval
 
+  ---
+
 SkyFlowTerminalManager/
 │
 ├── screenshots/
@@ -349,5 +351,5 @@ SkyFlowTerminalManager/
 │   └── sql-flight.png
 │
 └── README.md
-
+---
 
