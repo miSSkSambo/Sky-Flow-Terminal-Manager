@@ -576,7 +576,7 @@ SkyFlowTerminalManager/
 
 # Author
 
-Programming 741 Assignment
+Katlego Sambo
 
 SkyFlow Terminal Manager
 
